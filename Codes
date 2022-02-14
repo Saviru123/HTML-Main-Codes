@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>HTML Elements Reference</title>
+<meta charset="UTF-8">
+  <meta name="description" content="Free Web tutorials">
+  <meta name="keywords" content="HTML, CSS, JavaScript">
+  <meta name="author" content="John Doe">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style><style/>
+  
+<body>
+
+<h1>My First Hedding</h1>
+<h2>My First Hedding</h2>
+<h3>My First Hedding</h3>
+<h4>My First Hedding/h4>
+<h5>My First Hedding</h5>
+<h6>My First Hedding</h6>
+
+<p>My first paragraph.</p>
+
+<s>My First Small Text</s>
+
+<a href="https://www.youtube.com">This is a link for youtube</a>
+
+<img src="backgroundimage.png" alt="pixles.com" width="104" height="142">
+
+</body>
+</html>
